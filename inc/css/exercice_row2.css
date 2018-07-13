@@ -1,0 +1,45 @@
+.container {
+    border: 2px solid black;
+    margin: 100 auto;
+}
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.section {
+    height: 500px;
+}
+
+.borderHead {
+    border: 3px solid red;
+    padding: 5px;    
+}
+
+.borderNav {
+    border: 3px solid orange;
+    padding: 5px; 
+}
+
+.borderSection {
+    border: 3px solid blue;
+    padding: 5px;    
+}
+
+.borderFooter {
+    border: 3px solid green;
+    padding: 5px;     
+}
+
+.header {
+    height: 100px;
+}
+
+.section {
+    height: 500px;
+}
+
+.footer {
+    height: 70px;
+}

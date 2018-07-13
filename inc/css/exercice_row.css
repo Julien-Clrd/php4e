@@ -1,0 +1,35 @@
+.container {
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.borderA {
+    border: 3px solid red;
+    background: red;
+}
+
+.borderB {
+    border: 3px solid green;
+    background: green;
+}
+
+.borderC {
+    border: 3px solid blue;
+    background: blue;
+}
+
+.borderF {
+    border: 3px solid yellow;
+    background: yellow;
+}
+
+.borderG {
+    border: 3px solid orange;
+    background: orange;
+}
